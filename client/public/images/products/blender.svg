@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="NutriBlend 800W">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2E5D4E"/>
+      <stop offset="1" stop-color="#1e3c33"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <circle cx="300" cy="290" r="205" fill="#FFFFFF" opacity="0.06"/>
+  <path d="M245 150 L355 150 L335 330 L265 330 Z" fill="#A5D6A7" opacity="0.25" stroke="#A5D6A7" stroke-width="10" stroke-linejoin="round"/>
+    <rect x="255" y="330" width="90" height="130" rx="10" fill="none" stroke="#A5D6A7" stroke-width="10"/>
+    <line x1="272" y1="200" x2="328" y2="200" stroke="#A5D6A7" stroke-width="6"/>
+    <line x1="270" y1="250" x2="330" y2="250" stroke="#A5D6A7" stroke-width="6"/>
+  <rect x="0" y="500" width="600" height="100" fill="#20292B" opacity="0.82"/>
+  <text x="300" y="552" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#FFFFFF">NutriBlend 800W</text>
+  <text x="300" y="582" text-anchor="middle" font-family="Georgia, serif" font-size="15" letter-spacing="3" fill="#8FD3D8">GANZA MART</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="Shea Body Lotion">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8A6D3B"/>
+      <stop offset="1" stop-color="#5a4726"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <circle cx="300" cy="290" r="205" fill="#FFFFFF" opacity="0.06"/>
+  <rect x="262" y="150" width="76" height="40" rx="8" fill="#EAD9B0" stroke="#EAD9B0" stroke-width="8"/>
+    <path d="M255 190 L345 190 L360 460 L240 460 Z" fill="#EAD9B0" opacity="0.22" stroke="#EAD9B0" stroke-width="10" stroke-linejoin="round"/>
+    <line x1="262" y1="300" x2="338" y2="300" stroke="#EAD9B0" stroke-width="6"/>
+  <rect x="0" y="500" width="600" height="100" fill="#20292B" opacity="0.82"/>
+  <text x="300" y="552" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#FFFFFF">Shea Body Lotion</text>
+  <text x="300" y="582" text-anchor="middle" font-family="Georgia, serif" font-size="15" letter-spacing="3" fill="#8FD3D8">GANZA MART</text>
+</svg>

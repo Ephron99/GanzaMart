@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="Memory Foam Pillow ×2">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3E5C76"/>
+      <stop offset="1" stop-color="#283c4d"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <circle cx="300" cy="290" r="205" fill="#FFFFFF" opacity="0.06"/>
+  <path d="M150 220 Q300 190 450 220 Q475 300 450 380 Q300 410 150 380 Q125 300 150 220 Z"
+      fill="#BBD4E8" opacity="0.25" stroke="#BBD4E8" stroke-width="10" stroke-linejoin="round"/>
+    <path d="M180 250 Q300 300 420 250" fill="none" stroke="#BBD4E8" stroke-width="6" opacity="0.7"/>
+  <rect x="0" y="500" width="600" height="100" fill="#20292B" opacity="0.82"/>
+  <text x="300" y="552" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#FFFFFF">Memory Foam Pillow ×2</text>
+  <text x="300" y="582" text-anchor="middle" font-family="Georgia, serif" font-size="15" letter-spacing="3" fill="#8FD3D8">GANZA MART</text>
+</svg>

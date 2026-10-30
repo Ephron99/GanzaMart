@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="Leather Tote Bag">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5A3A22"/>
+      <stop offset="1" stop-color="#3b2616"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <circle cx="300" cy="290" r="205" fill="#FFFFFF" opacity="0.06"/>
+  <path d="M190 240 L410 240 L395 460 L205 460 Z" fill="#C79A6B" opacity="0.22" stroke="#C79A6B" stroke-width="10" stroke-linejoin="round"/>
+    <path d="M250 240 A50 50 0 0 1 350 240" fill="none" stroke="#C79A6B" stroke-width="10"/>
+  <rect x="0" y="500" width="600" height="100" fill="#20292B" opacity="0.82"/>
+  <text x="300" y="552" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#FFFFFF">Leather Tote Bag</text>
+  <text x="300" y="582" text-anchor="middle" font-family="Georgia, serif" font-size="15" letter-spacing="3" fill="#8FD3D8">GANZA MART</text>
+</svg>

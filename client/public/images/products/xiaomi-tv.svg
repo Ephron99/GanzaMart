@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="Xiaomi TV A2 43&quot;">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#12232B"/>
+      <stop offset="1" stop-color="#0c171c"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <circle cx="300" cy="290" r="205" fill="#FFFFFF" opacity="0.06"/>
+  <rect x="110" y="140" width="380" height="240" rx="10" fill="#4FC3F7" opacity="0.15" stroke="#4FC3F7" stroke-width="10"/>
+    <line x1="220" y1="420" x2="380" y2="420" stroke="#4FC3F7" stroke-width="12"/>
+    <line x1="300" y1="380" x2="300" y2="420" stroke="#4FC3F7" stroke-width="12"/>
+    <rect x="140" y="170" width="320" height="180" rx="4" fill="#4FC3F7" opacity="0.45"/>
+  <rect x="0" y="500" width="600" height="100" fill="#20292B" opacity="0.82"/>
+  <text x="300" y="552" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#FFFFFF">Xiaomi TV A2 43"</text>
+  <text x="300" y="582" text-anchor="middle" font-family="Georgia, serif" font-size="15" letter-spacing="3" fill="#8FD3D8">GANZA MART</text>
+</svg>

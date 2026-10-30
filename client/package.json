@@ -1,0 +1,26 @@
+{
+  "name": "ganzamart-client",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Ganza Mart React storefront (Vite + React Router + Context API)",
+  "engines": {
+    "node": ">=20.19"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.21.0",
+    "lucide-react": "^1.65.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.18.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "vite": "^8.3.5"
+  }
+}

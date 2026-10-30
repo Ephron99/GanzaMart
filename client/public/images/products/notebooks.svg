@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="A5 Dotted Notebook ×3">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00695C"/>
+      <stop offset="1" stop-color="#00443c"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <circle cx="300" cy="290" r="205" fill="#FFFFFF" opacity="0.06"/>
+  <rect x="185" y="150" width="230" height="300" rx="8" fill="#80CBC4" opacity="0.22" stroke="#80CBC4" stroke-width="10"/>
+    <circle cx="220" cy="200" r="7" fill="#80CBC4"/><circle cx="220" cy="240" r="7" fill="#80CBC4"/>
+    <circle cx="220" cy="280" r="7" fill="#80CBC4"/><circle cx="220" cy="320" r="7" fill="#80CBC4"/>
+    <circle cx="220" cy="360" r="7" fill="#80CBC4"/><circle cx="220" cy="400" r="7" fill="#80CBC4"/>
+    <line x1="250" y1="220" x2="390" y2="220" stroke="#80CBC4" stroke-width="5" opacity="0.6"/>
+    <line x1="250" y1="270" x2="390" y2="270" stroke="#80CBC4" stroke-width="5" opacity="0.6"/>
+  <rect x="0" y="500" width="600" height="100" fill="#20292B" opacity="0.82"/>
+  <text x="300" y="552" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#FFFFFF">A5 Dotted Notebook ×3</text>
+  <text x="300" y="582" text-anchor="middle" font-family="Georgia, serif" font-size="15" letter-spacing="3" fill="#8FD3D8">GANZA MART</text>
+</svg>

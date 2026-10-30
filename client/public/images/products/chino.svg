@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="Chino Trousers">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6D5B3B"/>
+      <stop offset="1" stop-color="#473b26"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <circle cx="300" cy="290" r="205" fill="#FFFFFF" opacity="0.06"/>
+  <path d="M205 150 L395 150 L388 460 L312 460 L300 300 L288 460 L212 460 Z"
+      fill="#D7C4A0" opacity="0.22" stroke="#D7C4A0" stroke-width="10" stroke-linejoin="round"/>
+    <line x1="205" y1="185" x2="395" y2="185" stroke="#D7C4A0" stroke-width="8"/>
+  <rect x="0" y="500" width="600" height="100" fill="#20292B" opacity="0.82"/>
+  <text x="300" y="552" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#FFFFFF">Chino Trousers</text>
+  <text x="300" y="582" text-anchor="middle" font-family="Georgia, serif" font-size="15" letter-spacing="3" fill="#8FD3D8">GANZA MART</text>
+</svg>

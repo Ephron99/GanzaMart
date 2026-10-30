@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="Vitamin C Serum">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#B26A00"/>
+      <stop offset="1" stop-color="#744500"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <circle cx="300" cy="290" r="205" fill="#FFFFFF" opacity="0.06"/>
+  <rect x="278" y="140" width="44" height="60" rx="8" fill="none" stroke="#FFCC80" stroke-width="10"/>
+    <path d="M290 200 L310 200 L332 430 L268 430 Z" fill="#FFCC80" opacity="0.25" stroke="#FFCC80" stroke-width="10" stroke-linejoin="round"/>
+    <circle cx="300" cy="300" r="6" fill="#FFCC80"/>
+  <rect x="0" y="500" width="600" height="100" fill="#20292B" opacity="0.82"/>
+  <text x="300" y="552" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#FFFFFF">Vitamin C Serum</text>
+  <text x="300" y="582" text-anchor="middle" font-family="Georgia, serif" font-size="15" letter-spacing="3" fill="#8FD3D8">GANZA MART</text>
+</svg>

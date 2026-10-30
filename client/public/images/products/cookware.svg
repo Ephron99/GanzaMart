@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="Ceramic Cookware Set 8pc">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7A1F1F"/>
+      <stop offset="1" stop-color="#4f1414"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <circle cx="300" cy="290" r="205" fill="#FFFFFF" opacity="0.06"/>
+  <path d="M160 250 L360 250 L345 400 L175 400 Z" fill="#EF9A9A" opacity="0.25" stroke="#EF9A9A" stroke-width="10" stroke-linejoin="round"/>
+    <line x1="360" y1="285" x2="440" y2="285" stroke="#EF9A9A" stroke-width="12"/>
+    <path d="M200 250 A60 60 0 0 1 320 250" fill="none" stroke="#EF9A9A" stroke-width="10"/>
+  <rect x="0" y="500" width="600" height="100" fill="#20292B" opacity="0.82"/>
+  <text x="300" y="552" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#FFFFFF">Ceramic Cookware Set 8pc</text>
+  <text x="300" y="582" text-anchor="middle" font-family="Georgia, serif" font-size="15" letter-spacing="3" fill="#8FD3D8">GANZA MART</text>
+</svg>

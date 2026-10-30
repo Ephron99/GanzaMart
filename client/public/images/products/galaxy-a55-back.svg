@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="Galaxy A55 — rear">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0E5A8A"/>
+      <stop offset="1" stop-color="#093b5a"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <circle cx="300" cy="290" r="205" fill="#FFFFFF" opacity="0.06"/>
+  <rect x="215" y="120" width="170" height="360" rx="24" fill="none" stroke="#4FC3F7" stroke-width="10"/>
+    <rect x="238" y="145" width="70" height="110" rx="14" fill="#4FC3F7" opacity="0.25"/>
+    <circle cx="262" cy="175" r="14" fill="#4FC3F7"/><circle cx="262" cy="220" r="14" fill="#4FC3F7"/>
+    <circle cx="320" cy="197" r="20" fill="#4FC3F7" opacity="0.7"/>
+  <rect x="0" y="500" width="600" height="100" fill="#20292B" opacity="0.82"/>
+  <text x="300" y="552" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#FFFFFF">Galaxy A55 — rear</text>
+  <text x="300" y="582" text-anchor="middle" font-family="Georgia, serif" font-size="15" letter-spacing="3" fill="#8FD3D8">GANZA MART</text>
+</svg>

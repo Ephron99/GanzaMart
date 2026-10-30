@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="Lenovo IdeaPad Slim 3">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#37474F"/>
+      <stop offset="1" stop-color="#242e33"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <circle cx="300" cy="290" r="205" fill="#FFFFFF" opacity="0.06"/>
+  <rect x="150" y="150" width="300" height="200" rx="12" fill="#90A4AE" opacity="0.18" stroke="#90A4AE" stroke-width="10"/>
+    <path d="M120 380 L480 380 L510 430 L90 430 Z" fill="none" stroke="#90A4AE" stroke-width="10" stroke-linejoin="round"/>
+    <rect x="185" y="180" width="230" height="140" rx="4" fill="#90A4AE" opacity="0.5"/>
+  <rect x="0" y="500" width="600" height="100" fill="#20292B" opacity="0.82"/>
+  <text x="300" y="552" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#FFFFFF">Lenovo IdeaPad Slim 3</text>
+  <text x="300" y="582" text-anchor="middle" font-family="Georgia, serif" font-size="15" letter-spacing="3" fill="#8FD3D8">GANZA MART</text>
+</svg>

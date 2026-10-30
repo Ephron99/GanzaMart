@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="Cotton Oxford Shirt">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1F5C8B"/>
+      <stop offset="1" stop-color="#143c5a"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <circle cx="300" cy="290" r="205" fill="#FFFFFF" opacity="0.06"/>
+  <path d="M230 150 L300 175 L370 150 L450 210 L405 255 L405 460 L195 460 L195 255 L150 210 Z"
+      fill="#BBDEFB" opacity="0.22" stroke="#BBDEFB" stroke-width="10" stroke-linejoin="round"/>
+    <path d="M270 150 L300 200 L330 150" fill="none" stroke="#BBDEFB" stroke-width="8"/>
+    <line x1="300" y1="210" x2="300" y2="440" stroke="#BBDEFB" stroke-width="6"/>
+  <rect x="0" y="500" width="600" height="100" fill="#20292B" opacity="0.82"/>
+  <text x="300" y="552" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#FFFFFF">Cotton Oxford Shirt</text>
+  <text x="300" y="582" text-anchor="middle" font-family="Georgia, serif" font-size="15" letter-spacing="3" fill="#8FD3D8">GANZA MART</text>
+</svg>
